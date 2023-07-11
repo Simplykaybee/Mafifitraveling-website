@@ -17,19 +17,19 @@ a:hover { color:#B2B3B4; }
 @media only screen and (max-width:320px) { #gallery_5c19d71c div.galleryimgcontainer { width: 100%; } } 
 body { background-color:#21201C; padding:0;  margin: 0; }
 .textstyle1 { text-align:center; }
-#container_73cb5bf { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:1783px; max-width:1200px; background-color:rgba(255, 255, 255, 0);  }
+#container_73cb5bf { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:1822px; max-width:1200px; background-color:rgba(255, 255, 255, 0);  }
 .textstyle2 { text-align:left; }
 #container_3bf7972b { vertical-align: top; position:relative; display: inline-block; width:58%; min-height:362px; background-color:#FFFFFF; background-image: url(rc_images/joshua_kettle_dlx_2u0reec_unsplash_1200x800.jpg); background-position:top left; background-size:cover;  }
 #container_3bf7972b_padding { margin: 20px 10px 20px 10px;display: block;  }
-.textstyle3 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+.textstyle3 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  }
 #container_48fac406 { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:100%; min-height:278px; max-width:1200px; background-color:#FFFFFF; border-top: 1px solid #808080; border-left: none; border-right: none; border-bottom: none;  }
 .vcenterstyle1 { display: table; width: 100%; height: 100%; }
 .vcenterstyle2 { display: table-cell; vertical-align: middle; }
-.textstyle4 { font-size:12pt; font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color:#FFFFFF; font-weight:bold;  }
+.textstyle4 { font-size:12pt; font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color:#000000; font-weight:bold;  }
 #gallery_5c19d71c { overflow:hidden; vertical-align: bottom; position:relative; display: inline-block; width:100%; min-height:216px;  }
-#container_3205b59a { vertical-align: top; position:relative; display: inline-block; width:78%; min-height:517px; max-width:1200px; background-color:#FFFFFF; background-image: url(rc_images/mafifi_logo_1200x806.jpg); background-position:top left; background-size:cover;  }
+#container_3205b59a { vertical-align: top; position:relative; display: inline-block; width:78%; min-height:509px; max-width:1200px; background-color:#FFFFFF; background-image: url(rc_images/mafifi_logo_1200x806.jpg); background-position:top left; background-size:cover;  }
 #container_3205b59a_padding { margin: 20px; display: block;  }
-.textstyle5 { font-size:12pt; font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color:#FFA925;  }
+.textstyle5 { font-size:12pt; font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color:#FFFFFF;  }
 #container_6a0088e0 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; max-width:1200px; background-color:#808080;  }
 #container_6a0088e0_padding { margin: 20px; display: block;  }
 .textstyle6 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#C0C0C0;  }
