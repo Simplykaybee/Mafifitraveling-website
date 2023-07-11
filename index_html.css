@@ -1,0 +1,62 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+#button_6bc5fd87 { vertical-align: bottom; position:relative; display: inline-block; width:150px; height:40px; background:none;  }
+#button_6bc5fd87:hover {  }
+#button_6bc5fd87:hover span { color:#525252; }
+#button_1effd7ca { vertical-align: bottom; position:relative; display: inline-block; width:150px; height:40px; background:none;  }
+#button_1effd7ca:hover {  }
+#button_1effd7ca:hover span { color:#525252; }
+#button_60691e67 { vertical-align: bottom; position:relative; display: inline-block; width:150px; height:40px; background:none;  }
+#button_60691e67:hover {  }
+#button_60691e67:hover span { color:#525252; }
+#gallery_5c19d71c div.galleryimgcontainer { box-sizing: border-box; vertical-align: middle; display: inline-block; width: 33%; height: auto; padding: 10px;  } 
+#gallery_5c19d71c div.galleryimgcontainer img {  width: 100%;  } 
+@media only screen and (max-width:420px) { #gallery_5c19d71c div.galleryimgcontainer { width: 50%; } } 
+@media only screen and (max-width:320px) { #gallery_5c19d71c div.galleryimgcontainer { width: 100%; } } 
+body { background-color:#21201C; padding:0;  margin: 0; }
+.textstyle1 { text-align:center; }
+#container_73cb5bf { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:1783px; max-width:1200px; background-color:rgba(255, 255, 255, 0);  }
+.textstyle2 { text-align:left; }
+#container_3bf7972b { vertical-align: top; position:relative; display: inline-block; width:58%; min-height:362px; background-color:#FFFFFF; background-image: url(rc_images/joshua_kettle_dlx_2u0reec_unsplash_1200x800.jpg); background-position:top left; background-size:cover;  }
+#container_3bf7972b_padding { margin: 20px 10px 20px 10px;display: block;  }
+.textstyle3 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#container_48fac406 { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:100%; min-height:278px; max-width:1200px; background-color:#FFFFFF; border-top: 1px solid #808080; border-left: none; border-right: none; border-bottom: none;  }
+.vcenterstyle1 { display: table; width: 100%; height: 100%; }
+.vcenterstyle2 { display: table-cell; vertical-align: middle; }
+.textstyle4 { font-size:12pt; font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color:#FFFFFF; font-weight:bold;  }
+#gallery_5c19d71c { overflow:hidden; vertical-align: bottom; position:relative; display: inline-block; width:100%; min-height:216px;  }
+#container_3205b59a { vertical-align: top; position:relative; display: inline-block; width:78%; min-height:517px; max-width:1200px; background-color:#FFFFFF; background-image: url(rc_images/mafifi_logo_1200x806.jpg); background-position:top left; background-size:cover;  }
+#container_3205b59a_padding { margin: 20px; display: block;  }
+.textstyle5 { font-size:12pt; font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color:#FFA925;  }
+#container_6a0088e0 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; max-width:1200px; background-color:#808080;  }
+#container_6a0088e0_padding { margin: 20px; display: block;  }
+.textstyle6 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#C0C0C0;  }
+.textstyle7 { font-size:12pt; font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color:#C0C0C0; line-height: 1.5;  }
+#container_489b3d8 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; max-width:1200px; background-color:#C0C0C0;  }
+#container_489b3d8_padding { margin: 20px; display: block;  }
+.textstyle8 { font-size:12pt; font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color:#000000;  }
+#container_31d6b3e8 { vertical-align: top; position:relative; display: inline-block; width:33%; min-height:150px; background:none;  }
+#container_31d6b3e8_padding { margin: 10px; display: block;  }
+#container_5355ec6 { vertical-align: top; position:relative; display: inline-block; width:33%; min-height:150px; background:none;  }
+#container_5355ec6_padding { margin: 10px; display: block;  }
+#container_38f1d0e3 { vertical-align: top; position:relative; display: inline-block; width:33%; min-height:150px; background:none;  }
+#container_38f1d0e3_padding { margin: 10px; display: block;  }
+#text_1c84632b { position:absolute; left:60%; top:1%; width:346px; height:123px; background:none;  }
+.textstyle9 { font-size:36pt; font-family:'VintageITC TT'; color:#FFFFFF; font-weight:bold;  }
+#slide_3bd38d17 { overflow:hidden; vertical-align: bottom; position:relative; display: inline-block; width:100%; height:0; padding-top:55%; background:none;  }
+@media only screen and (max-width: 890px)
+{
+		#text_1c84632b * span { font-size:30pt;  }
+}
+@media only screen and (max-width: 500px)
+{
+		#text_1c84632b * span { font-size:20pt;  }
+}
+@media only screen and (max-width: 450px)
+{
+		#container_31d6b3e8 { width:100%;  }
+		#container_5355ec6 { width:100%;  }
+		#container_38f1d0e3 { width:100%;  }
+}
